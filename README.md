@@ -2,7 +2,7 @@
 1. https://overthewire.org/wargames/bandit/bandit0.html << Expectation to get up to lvl 15 as a minimum, proof of solutions to be provided.
 bonus points: all levels
 
-A: Results saved in Bandit.txt
+A: Results saved in Bandit.txt. Still working on it. LVL 23
 
 2. Bash script to be created that iterates through a hardcoded list of ips, leverages the result of the curl to see if the page is up or down:
 -use the curl to connect to the web page
